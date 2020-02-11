@@ -1,0 +1,9 @@
+C:\Users\timon\Desktop\HW1\Academy Awards\obj\Debug\Academy Awards.csprojAssemblyReference.cache
+C:\Users\timon\Desktop\HW1\Academy Awards\obj\Debug\Academy_Awards.Form1.resources
+C:\Users\timon\Desktop\HW1\Academy Awards\obj\Debug\Academy_Awards.Properties.Resources.resources
+C:\Users\timon\Desktop\HW1\Academy Awards\obj\Debug\Academy Awards.csproj.GenerateResource.cache
+C:\Users\timon\Desktop\HW1\Academy Awards\bin\Debug\Academy Awards.exe.config
+C:\Users\timon\Desktop\HW1\Academy Awards\bin\Debug\Academy Awards.exe
+C:\Users\timon\Desktop\HW1\Academy Awards\bin\Debug\Academy Awards.pdb
+C:\Users\timon\Desktop\HW1\Academy Awards\obj\Debug\Academy Awards.exe
+C:\Users\timon\Desktop\HW1\Academy Awards\obj\Debug\Academy Awards.pdb

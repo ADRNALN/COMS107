@@ -1,0 +1,9 @@
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\bin\Debug\PriceCalculator.exe.config
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\bin\Debug\PriceCalculator.exe
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\bin\Debug\PriceCalculator.pdb
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.csprojAssemblyReference.cache
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.Form1.resources
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.Properties.Resources.resources
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.csproj.GenerateResource.cache
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.exe
+C:\Users\timon\Dropbox\COMS107\Assignment4\PriceCalculator\PriceCalculator\obj\Debug\PriceCalculator.pdb
