@@ -1,0 +1,9 @@
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\bin\Debug\PremiumCalculator.exe.config
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\bin\Debug\PremiumCalculator.exe
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\bin\Debug\PremiumCalculator.pdb
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\obj\Debug\PremiumCalculator.csprojAssemblyReference.cache
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\obj\Debug\PremiumCalculator.Form1.resources
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\obj\Debug\PremiumCalculator.Properties.Resources.resources
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\obj\Debug\PremiumCalculator.csproj.GenerateResource.cache
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\obj\Debug\PremiumCalculator.exe
+C:\Users\timonn\Desktop\Assignment6\PremiumCalculator\PremiumCalculator\obj\Debug\PremiumCalculator.pdb
