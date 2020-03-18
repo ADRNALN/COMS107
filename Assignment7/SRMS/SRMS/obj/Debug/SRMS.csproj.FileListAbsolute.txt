@@ -1,0 +1,9 @@
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\bin\Debug\SRMS.exe.config
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\bin\Debug\SRMS.exe
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\bin\Debug\SRMS.pdb
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\obj\Debug\SRMS.csprojAssemblyReference.cache
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\obj\Debug\SRMS.Form1.resources
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\obj\Debug\SRMS.Properties.Resources.resources
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\obj\Debug\SRMS.csproj.GenerateResource.cache
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\obj\Debug\SRMS.exe
+C:\Users\timonn\Desktop\Assignment7\SRMS\SRMS\obj\Debug\SRMS.pdb
