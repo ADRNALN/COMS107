@@ -1,0 +1,6 @@
+ID: 4
+name: Fag
+Physics Score: 12
+Chemistry Score: 10
+Math Score: 9
+
