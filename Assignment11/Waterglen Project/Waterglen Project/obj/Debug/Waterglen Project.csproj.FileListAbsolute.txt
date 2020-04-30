@@ -1,0 +1,9 @@
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\bin\Debug\Waterglen Project.exe.config
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\bin\Debug\Waterglen Project.exe
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\bin\Debug\Waterglen Project.pdb
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\obj\Debug\Waterglen Project.csprojAssemblyReference.cache
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\obj\Debug\Waterglen_Project.Form1.resources
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\obj\Debug\Waterglen_Project.Properties.Resources.resources
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\obj\Debug\Waterglen Project.csproj.GenerateResource.cache
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\obj\Debug\Waterglen Project.exe
+C:\Users\timon\source\repos\Waterglen Project\Waterglen Project\obj\Debug\Waterglen Project.pdb

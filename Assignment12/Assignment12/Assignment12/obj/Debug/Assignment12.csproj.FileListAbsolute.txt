@@ -1,0 +1,9 @@
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\bin\Debug\Assignment12.exe.config
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\bin\Debug\Assignment12.exe
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\bin\Debug\Assignment12.pdb
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.csprojAssemblyReference.cache
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.Form1.resources
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.Properties.Resources.resources
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.csproj.GenerateResource.cache
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.exe
+C:\Users\timon\Dropbox\COMS107\Assignment12\Assignment12\Assignment12\obj\Debug\Assignment12.pdb

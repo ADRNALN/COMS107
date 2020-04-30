@@ -1,0 +1,9 @@
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\bin\Debug\CreditCardValidator.exe.config
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\bin\Debug\CreditCardValidator.exe
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\bin\Debug\CreditCardValidator.pdb
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.csprojAssemblyReference.cache
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.Form1.resources
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.Properties.Resources.resources
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.csproj.GenerateResource.cache
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.exe
+C:\Users\timon\Dropbox\COMS107\ExtraCredit\CreditCardValidator\CreditCardValidator\obj\Debug\CreditCardValidator.pdb
